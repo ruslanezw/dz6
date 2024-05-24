@@ -8,10 +8,7 @@
     height: 34px;
     display: inline-block;
     vertical-align: top;
-    margin-top: 0px;
     margin-right: 229px;
-    padding-bottom: 18px;
-
 }
 
 .logo img {
@@ -42,6 +39,10 @@
     width: 45px;
 }
 
+.last-link {
+    margin-right: 0px;
+}
+
 .button {
     width: 100px;
     height: 35px;
@@ -51,9 +52,8 @@
     font-weight: 500;
     font-size: 16px;
     line-height: 20px;
-    float: right;
     border: 0;
-    margin-bottom: 18px;
+    margin-left: 356px;
 }
 
 .button img {
