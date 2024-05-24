@@ -1,0 +1,62 @@
+.header {
+    padding-top: 30px;
+    padding-bottom: 12px;
+}
+
+.logo {
+    width: 150px;
+    height: 34px;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 0px;
+    margin-right: 229px;
+    padding-bottom: 18px;
+
+}
+
+.logo img {
+    display: block;
+
+}
+
+.navig {
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 8px;
+}
+
+.link {
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    color: #3D3D3D;
+    margin-right: 50px;
+    display: inline-block;
+}
+
+.active {
+    font-weight: 700;
+    padding-bottom: 25px;
+    border-bottom: 3px solid #46A358;
+    width: 45px;
+}
+
+.button {
+    width: 100px;
+    height: 35px;
+    background-color: #46A358;
+    color: white;
+    border-radius: 6px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    float: right;
+    border: 0;
+    margin-bottom: 18px;
+}
+
+.button img {
+    vertical-align: middle;
+    margin-right: 1px;
+}
